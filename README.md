@@ -1,0 +1,2 @@
+# personal-projects-challenges_course-luisdev-career-part-3_dotnet-8_csharp-12
+Repositório com os desafios técnicos do módulo 'Desafios' da Imersão .NET Expert. Inclui projetos práticos como gerenciador de biblioteca, sistema de doação de sangue, CRM, plataforma de educação, gerenciador de clínica, gerenciador de vagas, ecommerce, focados em fortalecer o portfólio e acelerar o aprendizado em desenvolvimento .NET.
